@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/ranai/Interviews/TRI_cpp/Exercise1_OOP/build",
+  "command": "/usr/bin/clang++  -I/home/ranai/Interviews/TRI_cpp/Exercise1_OOP -O0 -g -g -std=gnu++20 -o CMakeFiles/SensorSim.dir/Runner.cpp.o -c /home/ranai/Interviews/TRI_cpp/Exercise1_OOP/Runner.cpp",
+  "file": "/home/ranai/Interviews/TRI_cpp/Exercise1_OOP/Runner.cpp"
+}
+]

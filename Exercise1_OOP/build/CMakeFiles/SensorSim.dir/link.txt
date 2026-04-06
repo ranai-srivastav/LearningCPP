@@ -1,0 +1,1 @@
+/usr/bin/clang++ -Wall -Werror -Wpedantic CMakeFiles/SensorSim.dir/Sensors.cpp.o CMakeFiles/SensorSim.dir/SensorPipeline.cpp.o CMakeFiles/SensorSim.dir/Runner.cpp.o -o SensorSim 
