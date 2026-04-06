@@ -1,3 +1,0 @@
-/home/ranai/Interviews/TRI_cpp/Exercise1_OOP/build_ninja/CMakeFiles/SensorSim.dir
-/home/ranai/Interviews/TRI_cpp/Exercise1_OOP/build_ninja/CMakeFiles/edit_cache.dir
-/home/ranai/Interviews/TRI_cpp/Exercise1_OOP/build_ninja/CMakeFiles/rebuild_cache.dir
